@@ -1,0 +1,9 @@
+POST /wujiang/ServiceProvider.ashx HTTP/1.1
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 96
+User-Agent: Dalvik/2.1.0 (Linux; U; Android 8.0.0; HWI-AL00 Build/HUAWEIHWI-AL00)
+Host: 218.4.243.147:8081
+Connection: close
+Accept-Encoding: gzip, deflate
+
+access_token=n&cmd=D001&type=query&userid=&d1=2019-02-01&d2=2019-04-30&appidentify=com.dist.xian
